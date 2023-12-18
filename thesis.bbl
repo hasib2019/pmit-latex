@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{mondal_automatic_2017}
+M.~Mondal, P.~Mondal, N.~Saha, and P.~Chattopadhyay, ``Automatic number plate
+  recognition using {CNN} based self synthesized feature learning,'' in {\em
+  2017 {IEEE} {Calcutta} {Conference} ({CALCON})}, pp.~378--381, Dec. 2017.
+
 \bibitem{c4}
 F.~Ricci, L.~Rokach, and B.~Shapira, ``Introduction to recommender systems
   handbook,'' in {\em Recommender systems handbook}, pp.~1--35, Springer, 2011.
@@ -36,11 +41,6 @@ B.~Noris, M.~Barker, J.~Nadel, F.~Hentsch, F.~Ansermet, and A.~Billard,
 P.~Santi and D.~M. Blough, ``{The Critical Transmitting Range for Connectivity
   in Sparse Wireless Ad Hoc Networks},'' {\em tmob}, vol.~2, no.~1, pp.~25--39,
   2003.
-
-\bibitem{mondal_automatic_2017}
-M.~Mondal, P.~Mondal, N.~Saha, and P.~Chattopadhyay, ``Automatic number plate
-  recognition using {CNN} based self synthesized feature learning,'' in {\em
-  2017 {IEEE} {Calcutta} {Conference} ({CALCON})}, pp.~378--381, Dec. 2017.
 
 \bibitem{wiki_2016}
 ``Cnn,'' 1982.

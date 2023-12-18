@@ -12,51 +12,52 @@
 \contentsline {chap}{\numberline {\hbox { }\hfill \bf I.\hspace {5pt}}{\bf Introduction}}{1}{}%
 \hbox { }
 \contentsline {section}{\numberline {1.1}Overview}{1}{}%
-\contentsline {section}{\numberline {1.2}Motivation}{1}{}%
-\contentsline {subsection}{\numberline {1.2.1}Image Processing}{1}{}%
-\contentsline {section}{\numberline {1.3}Problem Statement}{1}{}%
-\contentsline {section}{\numberline {1.4}Motivation}{1}{}%
-\contentsline {section}{\numberline {1.5}Objective}{2}{}%
-\contentsline {section}{\numberline {1.6}Assumptions \& Limitations}{3}{}%
-\contentsline {section}{\numberline {1.7}Research Outline}{3}{}%
-\contentsline {section}{\numberline {1.8}Limitation}{3}{}%
+\contentsline {subsection}{\numberline {1.1.1}Purpose}{1}{}%
+\contentsline {section}{\numberline {1.2}Background}{1}{}%
+\contentsline {section}{\numberline {1.3}AIM}{2}{}%
+\contentsline {section}{\numberline {1.4}Motivation}{3}{}%
+\contentsline {section}{\numberline {1.5}Objective}{4}{}%
+\contentsline {section}{\numberline {1.6}Assumptions \& Limitations}{5}{}%
+\contentsline {section}{\numberline {1.7}Research Outline}{5}{}%
+\contentsline {section}{\numberline {1.8}Limitation}{6}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Literature Review}}{4}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Literature Review}}{7}{}%
 \hbox { }
-\contentsline {section}{\numberline {2.1}Related Work}{4}{}%
-\contentsline {subsection}{\numberline {2.1.1}Soft Engg}{4}{}%
-\contentsline {section}{\numberline {2.2} Machine Learning Types}{4}{}%
-\contentsline {section}{\numberline {2.3}Supervised Machine Learning Classifiers}{4}{}%
-\contentsline {subsection}{\numberline {2.3.1}Logistic Regression (LR)}{5}{}%
-\contentsline {subsection}{\numberline {2.3.2}k-nearest neighbors (KNN) }{5}{}%
-\contentsline {subsection}{\numberline {2.3.3}Decision Tree (DT)}{6}{}%
-\contentsline {subsection}{\numberline {2.3.4}Gaussian Naive Bayes (GNB)}{6}{}%
-\contentsline {subsection}{\numberline {2.3.5}Random Forest (RF)}{7}{}%
-\contentsline {subsection}{\numberline {2.3.6}Gradient boosting (GB)}{7}{}%
-\contentsline {section}{\numberline {2.4}Research Gap}{7}{}%
+\contentsline {section}{\numberline {2.1}Related Work}{7}{}%
+\contentsline {subsection}{\numberline {2.1.1}Soft Engg}{7}{}%
+\contentsline {section}{\numberline {2.2} Machine Learning Types}{7}{}%
+\contentsline {section}{\numberline {2.3}Supervised Machine Learning Classifiers}{7}{}%
+\contentsline {subsection}{\numberline {2.3.1}Logistic Regression (LR)}{8}{}%
+\contentsline {subsection}{\numberline {2.3.2}k-nearest neighbors (KNN) }{8}{}%
+\contentsline {subsection}{\numberline {2.3.3}Decision Tree (DT)}{9}{}%
+\contentsline {subsection}{\numberline {2.3.4}Gaussian Naive Bayes (GNB)}{9}{}%
+\contentsline {subsection}{\numberline {2.3.5}Random Forest (RF)}{10}{}%
+\contentsline {subsection}{\numberline {2.3.6}Gradient boosting (GB)}{10}{}%
+\contentsline {section}{\numberline {2.4}Research Gap}{10}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf System Model}}{9}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf System Model}}{12}{}%
 \hbox { }
-\contentsline {section}{\numberline {3.1}Proposed Architecture}{9}{}%
+\contentsline {section}{\numberline {3.1}Proposed Architecture}{12}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{11}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{14}{}%
 \hbox { }
-\contentsline {section}{\numberline {4.1}Traffic Analysis}{11}{}%
-\contentsline {subsection}{\numberline {4.1.1}Traffic Analysis Technique}{11}{}%
-\contentsline {section}{\numberline {4.2}Feature Extraction}{12}{}%
-\contentsline {subsection}{\numberline {4.2.1}Feature Extraction Tool}{12}{}%
-\contentsline {section}{\numberline {4.3}Feature Selection}{13}{}%
-\contentsline {subsection}{\numberline {4.3.1}Selection Method}{14}{}%
-\contentsline {subsection}{\numberline {4.3.2}Selection Tool}{15}{}%
-\contentsline {section}{\numberline {4.4}Feature Specification on Proposed Model}{16}{}%
+\contentsline {section}{\numberline {4.1}Traffic Analysis}{14}{}%
+\contentsline {subsection}{\numberline {4.1.1}Traffic Analysis Technique}{14}{}%
+\contentsline {section}{\numberline {4.2}Feature Extraction}{15}{}%
+\contentsline {subsection}{\numberline {4.2.1}Feature Extraction Tool}{15}{}%
+\contentsline {section}{\numberline {4.3}Feature Selection}{16}{}%
+\contentsline {subsection}{\numberline {4.3.1}Selection Method}{17}{}%
+\contentsline {subsection}{\numberline {4.3.2}Selection Tool}{18}{}%
+\contentsline {section}{\numberline {4.4}Feature Specification on Proposed Model}{19}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{20}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{23}{}%
 \hbox { }
-\contentsline {section}{\numberline {5.1}Fuzzification}{20}{}%
-\contentsline {subsection}{\numberline {5.1.1}Fuzzification Method:}{20}{}%
+\contentsline {section}{\numberline {5.1}Fuzzification}{23}{}%
+\contentsline {subsection}{\numberline {5.1.1}Fuzzification Method:}{23}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Conclusion and Future Work}}{22}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{25}{}%
 \hbox { }
-\contentsline {section}{\numberline {6.1}Conclusion}{22}{}%
-\contentsline {section}{\numberline {6.2}Future Work}{22}{}%
-\contentsline {chapter}{References}{23}{}%
+\contentsline {section}{\numberline {6.1}Limitations}{25}{}%
+\contentsline {section}{\numberline {6.2}Future Plan}{25}{}%
+\contentsline {section}{\numberline {6.3}Conclusion}{26}{}%
+\contentsline {chapter}{References}{27}{}%
