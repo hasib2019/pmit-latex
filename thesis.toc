@@ -23,41 +23,28 @@
 \hbox { }
 \contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Literature Review}}{7}{}%
 \hbox { }
-\contentsline {section}{\numberline {2.1}Related Work}{7}{}%
-\contentsline {subsection}{\numberline {2.1.1}Soft Engg}{7}{}%
-\contentsline {section}{\numberline {2.2} Machine Learning Types}{7}{}%
-\contentsline {section}{\numberline {2.3}Supervised Machine Learning Classifiers}{7}{}%
-\contentsline {subsection}{\numberline {2.3.1}Logistic Regression (LR)}{8}{}%
-\contentsline {subsection}{\numberline {2.3.2}k-nearest neighbors (KNN) }{8}{}%
-\contentsline {subsection}{\numberline {2.3.3}Decision Tree (DT)}{9}{}%
-\contentsline {subsection}{\numberline {2.3.4}Gaussian Naive Bayes (GNB)}{9}{}%
-\contentsline {subsection}{\numberline {2.3.5}Random Forest (RF)}{10}{}%
-\contentsline {subsection}{\numberline {2.3.6}Gradient boosting (GB)}{10}{}%
-\contentsline {section}{\numberline {2.4}Research Gap}{10}{}%
+\contentsline {section}{\numberline {2.1}Definition of Co-operative society: }{7}{}%
+\contentsline {section}{\numberline {2.2}Seven Co-operative features:}{7}{}%
+\contentsline {section}{\numberline {2.3}History of Cooperative Movements}{8}{}%
+\contentsline {section}{\numberline {2.4}Cooperative Movement in India}{8}{}%
+\contentsline {section}{\numberline {2.5}Cooperatives in Bangladesh}{9}{}%
+\contentsline {chapter}{References}{11}{}%
 \hbox { }
 \contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf System Model}}{12}{}%
 \hbox { }
 \contentsline {section}{\numberline {3.1}Proposed Architecture}{12}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{14}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{13}{}%
 \hbox { }
-\contentsline {section}{\numberline {4.1}Traffic Analysis}{14}{}%
-\contentsline {subsection}{\numberline {4.1.1}Traffic Analysis Technique}{14}{}%
-\contentsline {section}{\numberline {4.2}Feature Extraction}{15}{}%
-\contentsline {subsection}{\numberline {4.2.1}Feature Extraction Tool}{15}{}%
-\contentsline {section}{\numberline {4.3}Feature Selection}{16}{}%
-\contentsline {subsection}{\numberline {4.3.1}Selection Method}{17}{}%
-\contentsline {subsection}{\numberline {4.3.2}Selection Tool}{18}{}%
-\contentsline {section}{\numberline {4.4}Feature Specification on Proposed Model}{19}{}%
+\contentsline {section}{\numberline {4.1}Traffic Analysis}{13}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{23}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{14}{}%
 \hbox { }
-\contentsline {section}{\numberline {5.1}Fuzzification}{23}{}%
-\contentsline {subsection}{\numberline {5.1.1}Fuzzification Method:}{23}{}%
+\contentsline {section}{\numberline {5.1}Fuzzification}{14}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{25}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{15}{}%
 \hbox { }
-\contentsline {section}{\numberline {6.1}Limitations}{25}{}%
-\contentsline {section}{\numberline {6.2}Future Plan}{25}{}%
-\contentsline {section}{\numberline {6.3}Conclusion}{26}{}%
-\contentsline {chapter}{References}{27}{}%
+\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{15}{}%
+\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{16}{}%
+\contentsline {section}{\numberline {6.3}Conclusion}{16}{}%
+\contentsline {chapter}{References}{17}{}%

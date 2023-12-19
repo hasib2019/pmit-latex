@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.17)  19 DEC 2023 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.17)  19 DEC 2023 23:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -659,7 +659,41 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 Package nomencl Info: Writing nomenclature file thesis.nlo on input line 66.
 \c@theorem=\count330
- (thesis.aux)
+ (thesis.aux
+
+Package natbib Warning: Citation `WalesCC' multiply defined.
+
+
+Package natbib Warning: Citation `Lennoxtown' multiply defined.
+
+
+Package natbib Warning: Citation `Sampson1906' multiply defined.
+
+
+Package natbib Warning: Citation `Rediff' multiply defined.
+
+
+Package natbib Warning: Citation `Infed' multiply defined.
+
+
+Package natbib Warning: Citation `Carrell2007' multiply defined.
+
+
+Package natbib Warning: Citation `PreserveArticles' multiply defined.
+
+
+Package natbib Warning: Citation `PunjabRevenue' multiply defined.
+
+
+Package natbib Warning: Citation `NCUA' multiply defined.
+
+
+Package natbib Warning: Citation `Scribd' multiply defined.
+
+
+Package natbib Warning: Citation `SheikhHasina2010' multiply defined.
+
+)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
@@ -715,15 +749,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--10
  []
 
 ) [2] (FrontMatter/certificate.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
  (C:\Users\Hasib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 10.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (C:\Users\Hasib\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (7.43372pt too wide) in paragraph at lines 26--53
+Overfull \hbox (7.43372pt too wide) in paragraph at lines 25--52
 [] 
  []
 
@@ -758,122 +792,108 @@ File: Chap1/motivation.PNG Graphic file (type png)
 <use Chap1/motivation.PNG>
 Package pdftex.def Info: Chap1/motivation.PNG  used on input line 104.
 (pdftex.def)             Requested size: 227.34882pt x 97.11256pt.
- [3] [4 <./Chap1/motivation.PNG>]) (Chap2/Chapter2.tex [5] [6]
+ [3]
+
+Package natbib Warning: Citation `c4' on page 4 undefined on input line 112.
+
+[4 <./Chap1/motivation.PNG>]) (Chap2/Chapter2.tex [5] [6]
 CHAPTER II.
-
-Underfull \hbox (badness 3668) in paragraph at lines 23--23
-[]\T1/cmr/m/n/12 In this step, we will de-scribe some
- []
-
-
-Underfull \hbox (badness 4168) in paragraph at lines 23--23
-\T1/cmr/m/n/12 su-per-vised ma-chine learn-ing clas-si-fiers
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\T1/cmr/m/n/12 named-L-o-gis-tic Re-gres-sion, k-nearest
- []
-
-
-Underfull \hbox (badness 2368) in paragraph at lines 23--23
-\T1/cmr/m/n/12 For-est, Gra-di-ent Boost-ing and Lin-ear
- []
-
 [7
 
 ] [8] [9]
-<Chap2/EEGonbrain.png, id=86, 323.7696pt x 536.7252pt>
-File: Chap2/EEGonbrain.png Graphic file (type png)
-<use Chap2/EEGonbrain.png>
-Package pdftex.def Info: Chap2/EEGonbrain.png  used on input line 124.
-(pdftex.def)             Requested size: 161.8844pt x 268.36194pt.
-) (Chap3/Chapter3.tex [10] [11 <./Chap2/EEGonbrain.png>]
+Overfull \hbox (261.56877pt too wide) in paragraph at lines 95--106
+ [] 
+ []
+
+[10]) (Chap3/Chapter3.tex [11
+
+]
 CHAPTER III.
-<Chap3/proposedmodel.png, id=94, 405.76593pt x 431.36156pt>
-File: Chap3/proposedmodel.png Graphic file (type png)
-<use Chap3/proposedmodel.png>
-Package pdftex.def Info: Chap3/proposedmodel.png  used on input line 9.
-(pdftex.def)             Requested size: 397.48499pt x 422.57347pt.
 ) (Chap4/Chapter4.tex [12
 
-] [13 <./Chap3/proposedmodel.png>]
+]
 CHAPTER IV.
-<Chap4/trafficanalysis.png, id=101, 438.8897pt x 233.37187pt>
-File: Chap4/trafficanalysis.png Graphic file (type png)
-<use Chap4/trafficanalysis.png>
-Package pdftex.def Info: Chap4/trafficanalysis.png  used on input line 20.
-(pdftex.def)             Requested size: 438.88863pt x 233.37129pt.
+) (Chap5/Chapter5.tex [13
 
-Overfull \hbox (5.26863pt too wide) in paragraph at lines 20--21
- [][] 
- []
-
-[14
-
-] [15 <./Chap4/trafficanalysis.png>]
-<Chap4/FeatureExtraction.PNG, id=109, 412.54124pt x 274.02374pt>
-File: Chap4/FeatureExtraction.PNG Graphic file (type png)
-<use Chap4/FeatureExtraction.PNG>
-Package pdftex.def Info: Chap4/FeatureExtraction.PNG  used on input line 56.
-(pdftex.def)             Requested size: 361.34999pt x 240.02524pt.
- [16] [17 <./Chap4/FeatureExtraction.PNG>] [18]
-<Chap4/feature.jpg, id=120, 972.63374pt x 406.51875pt>
-File: Chap4/feature.jpg Graphic file (type jpg)
-<use Chap4/feature.jpg>
-Package pdftex.def Info: Chap4/feature.jpg  used on input line 109.
-(pdftex.def)             Requested size: 972.63136pt x 406.51775pt.
-
-Overfull \hbox (539.01137pt too wide) in paragraph at lines 109--110
- [][] 
- []
-
-[19] [20 <./Chap4/feature.jpg>] [21]) (Chap5/Chapter5.tex [22]
+]
 CHAPTER V.
-<Chap5/cnn1.jpg, id=134, 407.5225pt x 292.09125pt>
-File: Chap5/cnn1.jpg Graphic file (type jpg)
-<use Chap5/cnn1.jpg>
-Package pdftex.def Info: Chap5/cnn1.jpg  used on input line 23.
-(pdftex.def)             Requested size: 203.76074pt x 146.04526pt.
+) (Chap6/Chapter6.tex [14
 
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 32.
-
-
-Underfull \hbox (badness 2088) in paragraph at lines 38--38
-[]\T1/cmr/m/n/12 It in-cludes in-put, hid-den
- []
-
-) (Chap6/Chapter6.tex [23
-
- <./Chap5/cnn1.jpg>] [24]
+]
 CHAPTER VI.
-[25
+[15
 
-]) (thesis.bbl [26]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 47.
+] [16]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 73.
  (C:\Users\Hasib\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)) [27
+)
+Underfull \hbox (badness 3148) in paragraph at lines 79--80
+[]\T1/cmr/m/n/12 Sampson, F. A. (1906). \T1/cmr/m/it/12 Mis-souri His-tor-i-cal Re-view\T1/cmr/m/n/12 . Ed-i-tor, The state
+ []
 
-] (thesis.aux)
+
+Underfull \hbox (badness 2035) in paragraph at lines 79--80
+\T1/cmr/m/n/12 His-tor-i-cal So-ci-ety of Mis-souri. Avail-able at $\T1/cmtt/m/n/12 http : / / archive . org / stream /
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 79--80
+\T1/cmtt/m/n/12 missourihistoric01missuoft / missourihistoric01missuoft _ djvu . txt$\T1/cmr/m/n/12 , last
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 91--92
+[]\T1/cmr/m/n/12 preservearticles.com. ``Es-say on the his-tory of Co-op-er-a-tive Move-ment in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+\T1/cmr/m/n/12 In-dia.'' Avail-able at $\T1/cmtt/m/n/12 http : / / www . preservearticles . com / 201105076374 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+\T1/cmtt/m/n/12 essay-[]on-[]the-[]history-[]of-[]cooperative-[]movement-[]in-[]india . html$\T1/cmr/m/n/12 , last
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 100--101
+[]\T1/cmr/m/n/12 scribd.com. ``Co-operative so-ci-ety, its ex-pan-sion and fu-ture pos-si-bil-i-ties
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 100--101
+\T1/cmr/m/n/12 in the con-text of Bangladesh.'' [on-line]. Avail-able at $\T1/cmtt/m/n/12 http : / / www . scribd .
+ []
+
+[17
+
+])
+
+Package natbib Warning: There were undefined citations.
+
+
+Package natbib Warning: There were multiply defined citations.
+
+[18] (thesis.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20414 strings out of 474490
- 404884 string characters out of 5743812
- 1935473 words of memory out of 5000000
- 42195 multiletter control sequences out of 15000+600000
- 571754 words of font info for 67 fonts, out of 8000000 for 9000
+ 20354 strings out of 474490
+ 403254 string characters out of 5743812
+ 1934473 words of memory out of 5000000
+ 42139 multiletter control sequences out of 15000+600000
+ 570991 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,11n,107p,1133b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on thesis.pdf (38 pages, 693048 bytes).
+ 110i,10n,107p,1133b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on thesis.pdf (29 pages, 349092 bytes).
 PDF statistics:
- 518 PDF objects out of 1000 (max. 8388607)
+ 449 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
