@@ -13,38 +13,38 @@
 \hbox { }
 \contentsline {section}{\numberline {1.1}Overview}{1}{}%
 \contentsline {subsection}{\numberline {1.1.1}Purpose}{1}{}%
-\contentsline {section}{\numberline {1.2}Background}{1}{}%
-\contentsline {section}{\numberline {1.3}AIM}{2}{}%
+\contentsline {section}{\numberline {1.2}The History of Co-operative Societies in Bangladesh}{1}{}%
+\contentsline {subsection}{\numberline {1.2.1}Pre-independence Period}{2}{}%
+\contentsline {subsection}{\numberline {1.2.2}Post-independence Era}{2}{}%
+\contentsline {section}{\numberline {1.3}Aims of Co-operative Societies in Bangladesh}{2}{}%
 \contentsline {section}{\numberline {1.4}Motivation}{3}{}%
-\contentsline {section}{\numberline {1.5}Objective}{4}{}%
-\contentsline {section}{\numberline {1.6}Assumptions \& Limitations}{5}{}%
-\contentsline {section}{\numberline {1.7}Research Outline}{5}{}%
-\contentsline {section}{\numberline {1.8}Limitation}{6}{}%
+\contentsline {section}{\numberline {1.5}Findings of Our Study}{4}{}%
+\contentsline {section}{\numberline {1.6}Problems of Cooperatives in Bangladesh}{7}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Literature Review}}{7}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Literature Review}}{9}{}%
 \hbox { }
-\contentsline {section}{\numberline {2.1}Definition of Co-operative society: }{7}{}%
-\contentsline {section}{\numberline {2.2}Seven Co-operative features:}{7}{}%
-\contentsline {section}{\numberline {2.3}History of Cooperative Movements}{8}{}%
-\contentsline {section}{\numberline {2.4}Cooperative Movement in India}{8}{}%
-\contentsline {section}{\numberline {2.5}Cooperatives in Bangladesh}{9}{}%
-\contentsline {chapter}{References}{11}{}%
+\contentsline {section}{\numberline {2.1}Definition of Co-operative society: }{9}{}%
+\contentsline {section}{\numberline {2.2}Seven Co-operative features:}{9}{}%
+\contentsline {section}{\numberline {2.3}History of Cooperative Movements}{10}{}%
+\contentsline {section}{\numberline {2.4}Cooperative Movement in India}{10}{}%
+\contentsline {section}{\numberline {2.5}Cooperatives in Bangladesh}{11}{}%
+\contentsline {chapter}{References}{13}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf System Model}}{12}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf System Model}}{14}{}%
 \hbox { }
-\contentsline {section}{\numberline {3.1}Proposed Architecture}{12}{}%
+\contentsline {section}{\numberline {3.1}Proposed Architecture}{14}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{13}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{15}{}%
 \hbox { }
-\contentsline {section}{\numberline {4.1}Traffic Analysis}{13}{}%
+\contentsline {section}{\numberline {4.1}Traffic Analysis}{15}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{14}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{16}{}%
 \hbox { }
-\contentsline {section}{\numberline {5.1}Fuzzification}{14}{}%
+\contentsline {section}{\numberline {5.1}Fuzzification}{16}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{15}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{17}{}%
 \hbox { }
-\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{15}{}%
-\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{16}{}%
-\contentsline {section}{\numberline {6.3}Conclusion}{16}{}%
-\contentsline {chapter}{References}{17}{}%
+\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{17}{}%
+\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{18}{}%
+\contentsline {section}{\numberline {6.3}Conclusion}{18}{}%
+\contentsline {chapter}{References}{19}{}%

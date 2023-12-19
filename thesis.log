@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.17)  19 DEC 2023 23:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.17)  20 DEC 2023 00:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -661,6 +661,30 @@ Package nomencl Info: Writing nomenclature file thesis.nlo on input line 66.
 \c@theorem=\count330
  (thesis.aux
 
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
+LaTeX Warning: Label `fig:example' multiply defined.
+
+
 Package natbib Warning: Citation `WalesCC' multiply defined.
 
 
@@ -781,49 +805,95 @@ CHAPTER I.
 
 
 
-]
-Overfull \hbox (2.78596pt too wide) in paragraph at lines 67--69
+] [2]
+Overfull \hbox (2.78596pt too wide) in paragraph at lines 62--63
 \T1/cmr/m/n/12 stems from the recog-ni-tion of sev-eral press-ing needs and chal-lenges within Co-operative
  []
 
-[2]
-<Chap1/motivation.PNG, id=55, 454.69875pt x 194.22563pt>
-File: Chap1/motivation.PNG Graphic file (type png)
-<use Chap1/motivation.PNG>
-Package pdftex.def Info: Chap1/motivation.PNG  used on input line 104.
-(pdftex.def)             Requested size: 227.34882pt x 97.11256pt.
- [3]
+[3]
+<Chap1/figure1.PNG, id=58, 675.27281pt x 292.84406pt>
+File: Chap1/figure1.PNG Graphic file (type png)
+<use Chap1/figure1.PNG>
+Package pdftex.def Info: Chap1/figure1.PNG  used on input line 98.
+(pdftex.def)             Requested size: 260.17464pt x 112.83244pt.
+<Chap1/figure2.PNG, id=59, 731.73375pt x 291.33844pt>
+File: Chap1/figure2.PNG Graphic file (type png)
+<use Chap1/figure2.PNG>
+Package pdftex.def Info: Chap1/figure2.PNG  used on input line 109.
+(pdftex.def)             Requested size: 260.17464pt x 103.58812pt.
+ [4 <./Chap1/figure1.PNG>]
+<Chap1/figure3.PNG, id=64, 758.08218pt x 234.8775pt>
+File: Chap1/figure3.PNG Graphic file (type png)
+<use Chap1/figure3.PNG>
+Package pdftex.def Info: Chap1/figure3.PNG  used on input line 120.
+(pdftex.def)             Requested size: 260.17464pt x 80.60991pt.
+<Chap1/figure4.1.PNG, id=65, 383.18156pt x 33.12375pt>
+File: Chap1/figure4.1.PNG Graphic file (type png)
+<use Chap1/figure4.1.PNG>
+Package pdftex.def Info: Chap1/figure4.1.PNG  used on input line 131.
+(pdftex.def)             Requested size: 260.17464pt x 22.49149pt.
+<Chap1/figure4.PNG, id=66, 678.28406pt x 225.09094pt>
+File: Chap1/figure4.PNG Graphic file (type png)
+<use Chap1/figure4.PNG>
+Package pdftex.def Info: Chap1/figure4.PNG  used on input line 135.
+(pdftex.def)             Requested size: 260.17464pt x 86.33913pt.
+<Chap1/figure5.PNG, id=67, 455.45157pt x 187.45032pt>
+File: Chap1/figure5.PNG Graphic file (type png)
+<use Chap1/figure5.PNG>
+Package pdftex.def Info: Chap1/figure5.PNG  used on input line 146.
+(pdftex.def)             Requested size: 260.17464pt x 107.08232pt.
 
-Package natbib Warning: Citation `c4' on page 4 undefined on input line 112.
 
-[4 <./Chap1/motivation.PNG>]) (Chap2/Chapter2.tex [5] [6]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Chap1/figure6.PNG, id=68, 606.76688pt x 204.01219pt>
+File: Chap1/figure6.PNG Graphic file (type png)
+<use Chap1/figure6.PNG>
+Package pdftex.def Info: Chap1/figure6.PNG  used on input line 155.
+(pdftex.def)             Requested size: 260.17464pt x 87.4776pt.
+[5 <./Chap1/figure2.PNG> <./Chap1/figure3.PNG> <./Chap1/figure4.1.PNG> <./Chap1/figure4.PNG>]
+<Chap1/figure7.PNG, id=76, 593.21625pt x 240.9pt>
+File: Chap1/figure7.PNG Graphic file (type png)
+<use Chap1/figure7.PNG>
+Package pdftex.def Info: Chap1/figure7.PNG  used on input line 164.
+(pdftex.def)             Requested size: 260.17464pt x 105.65814pt.
+<Chap1/figure8.PNG, id=77, 582.67688pt x 209.28188pt>
+File: Chap1/figure8.PNG Graphic file (type png)
+<use Chap1/figure8.PNG>
+Package pdftex.def Info: Chap1/figure8.PNG  used on input line 173.
+(pdftex.def)             Requested size: 260.17464pt x 93.44786pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6 <./Chap1/figure5.PNG> <./Chap1/figure6.PNG> <./Chap1/figure7.PNG>] [7 <./Chap1/figure8.PNG>]) (Chap2/Chapter2.tex [8]
 CHAPTER II.
-[7
+[9
 
-] [8] [9]
+] [10] [11]
 Overfull \hbox (261.56877pt too wide) in paragraph at lines 95--106
  [] 
  []
 
-[10]) (Chap3/Chapter3.tex [11
+[12]) (Chap3/Chapter3.tex [13
 
 ]
 CHAPTER III.
-) (Chap4/Chapter4.tex [12
+) (Chap4/Chapter4.tex [14
 
 ]
 CHAPTER IV.
-) (Chap5/Chapter5.tex [13
+) (Chap5/Chapter5.tex [15
 
 ]
 CHAPTER V.
-) (Chap6/Chapter6.tex [14
+) (Chap6/Chapter6.tex [16
 
 ]
 CHAPTER VI.
-[15
+[17
 
-] [16]
+] [18]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 73.
  (C:\Users\Hasib\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
@@ -867,33 +937,34 @@ Underfull \hbox (badness 1158) in paragraph at lines 100--101
 \T1/cmr/m/n/12 in the con-text of Bangladesh.'' [on-line]. Avail-able at $\T1/cmtt/m/n/12 http : / / www . scribd .
  []
 
-[17
+[19
 
 ])
 
-Package natbib Warning: There were undefined citations.
-
-
 Package natbib Warning: There were multiply defined citations.
 
-[18] (thesis.aux)
+[20] (thesis.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 20354 strings out of 474490
- 403254 string characters out of 5743812
+ 20406 strings out of 474490
+ 404526 string characters out of 5743812
  1934473 words of memory out of 5000000
- 42139 multiletter control sequences out of 15000+600000
- 570991 words of font info for 66 fonts, out of 8000000 for 9000
+ 42192 multiletter control sequences out of 15000+600000
+ 570222 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 110i,10n,107p,1133b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 110i,10n,107p,680b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Hasib\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Hasib/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on thesis.pdf (29 pages, 349092 bytes).
+Output written on thesis.pdf (31 pages, 397638 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
+ 466 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
