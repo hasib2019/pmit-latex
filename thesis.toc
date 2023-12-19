@@ -29,10 +29,13 @@
 \contentsline {section}{\numberline {2.4}Cooperative Movement in India}{10}{}%
 \contentsline {section}{\numberline {2.5}Cooperatives in Bangladesh}{11}{}%
 \contentsline {chapter}{References}{13}{}%
-\contentsline {section}{\numberline {2.6}DATA FLOW DIAGRAM}{14}{}%
-\contentsline {section}{\numberline {2.7}USE CASE DIAGRAM}{14}{}%
-\contentsline {section}{\numberline {2.8}PROCESS DIAGRAM}{14}{}%
-\contentsline {section}{\numberline {2.9}ENTRY USER}{14}{}%
-\contentsline {section}{\numberline {2.10}VERIFY/ADMIN/ACTIVITIES/APPROVAL USER }{14}{}%
-\contentsline {section}{\numberline {2.11}RELATIONAL DATABASE DESIGN}{14}{}%
-\contentsline {section}{\numberline {2.12}SOCIETY SETUP DATABASE}{14}{}%
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf Design And Implementation}}{14}{}%
+\hbox { }
+\contentsline {section}{\numberline {3.1}DATA FLOW DIAGRAM}{14}{}%
+\contentsline {section}{\numberline {3.2}USE CASE DIAGRAM}{15}{}%
+\contentsline {section}{\numberline {3.3}PROCESS DIAGRAM}{15}{}%
+\contentsline {section}{\numberline {3.4}ENTRY USER}{16}{}%
+\contentsline {section}{\numberline {3.5}VERIFY/ADMIN/ACTIVITIES/APPROVAL USER }{16}{}%
+\contentsline {section}{\numberline {3.6}RELATIONAL DATABASE DESIGN}{16}{}%
+\contentsline {section}{\numberline {3.7}SOCIETY SETUP DATABASE}{17}{}%
