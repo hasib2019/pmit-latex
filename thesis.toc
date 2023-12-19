@@ -29,22 +29,10 @@
 \contentsline {section}{\numberline {2.4}Cooperative Movement in India}{10}{}%
 \contentsline {section}{\numberline {2.5}Cooperatives in Bangladesh}{11}{}%
 \contentsline {chapter}{References}{13}{}%
-\hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf III.\hspace {5pt}}{\bf System Model}}{14}{}%
-\hbox { }
-\contentsline {section}{\numberline {3.1}Proposed Architecture}{14}{}%
-\hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf Algorithm Analysis}}{15}{}%
-\hbox { }
-\contentsline {section}{\numberline {4.1}Traffic Analysis}{15}{}%
-\hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{16}{}%
-\hbox { }
-\contentsline {section}{\numberline {5.1}Fuzzification}{16}{}%
-\hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{17}{}%
-\hbox { }
-\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{17}{}%
-\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{18}{}%
-\contentsline {section}{\numberline {6.3}Conclusion}{18}{}%
-\contentsline {chapter}{References}{19}{}%
+\contentsline {section}{\numberline {2.6}DATA FLOW DIAGRAM}{14}{}%
+\contentsline {section}{\numberline {2.7}USE CASE DIAGRAM}{14}{}%
+\contentsline {section}{\numberline {2.8}PROCESS DIAGRAM}{14}{}%
+\contentsline {section}{\numberline {2.9}ENTRY USER}{14}{}%
+\contentsline {section}{\numberline {2.10}VERIFY/ADMIN/ACTIVITIES/APPROVAL USER }{14}{}%
+\contentsline {section}{\numberline {2.11}RELATIONAL DATABASE DESIGN}{14}{}%
+\contentsline {section}{\numberline {2.12}SOCIETY SETUP DATABASE}{14}{}%
