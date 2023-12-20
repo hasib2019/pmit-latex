@@ -1,0 +1,103 @@
+\section{IMPLEMENTATION}
+Implementing a Co-operative Society Management System involves creating a software 
+application that helps manage the various activities and operations of a Co-operative society. 
+Here's a basic outline of how you can implement such a system:
+
+\subsection{Dashboard:}
+At a glance, show approved, rejected, pending, and waiting societies. It also displays system services based on user roles.
+
+\subsection{Society Management:}
+\begin{itemize}
+    \item Add and edit societies with documents in this screen by the entry user.
+    \item Post to verify user follows up on his activities management and checks information and documents.
+    \item Society data on the field is then submitted to the approval user.
+    \item Approval user approves the society, then a 19-digit code (Example: 2023.1.01.4161.0001) is generated and stored in the society main table (\texttt{samity\_info}).
+\end{itemize}
+
+\subsection{Members Management:}
+\begin{itemize}
+    \item Two types of entry processes: entry system and excel file upload for approved societies.
+    \item Generate an ID for member code and store it in the \texttt{member\_info} table with a relational \texttt{samity\_id}.
+\end{itemize}
+
+\subsection{Committee Management:}
+\begin{itemize}
+    \item Three types of committee types: 
+    \begin{enumerate}
+        \item Approved First Committee (6-12 members) with a time duration of 2 years.
+        \item Elected Committee (6-12 members) with a time duration of 3 years.
+        \item Election Committee (3 members) with a time duration of 90 days.
+        \item Interim Committee (3 selected members) with a time duration of 45 days.
+    \end{enumerate}
+    \item Present committee roles as per rules. All data stored in the \texttt{committee\_info} table.
+\end{itemize}
+
+\subsection{Website Setup:}
+Every society gets one website for society information for Co-operative/Normal users. Set up includes Home, About Us, Members, Services, Project, and Contact of society.
+
+\subsection{Reporting:}
+Generate reports on society information, member information, committee information, and overall society performance. Detailed information report attributes link to Jasper Report.
+
+% //////////////////////////////
+
+\section{Implementation Tools}
+\subsection{React Framework Next.js}
+The "React Framework Next.js" is a powerful combination of two JavaScript technologies: React and Next.js. Here are some key features and benefits of using the React Framework Next.js:
+\begin{itemize}
+    \item Server-Side Rendering (SSR)
+    \item Routing
+    \item Automatic Code Splitting
+    \item API Routes
+    \item Built-in CSS Support
+\end{itemize}
+
+\subsection{Material UI}
+Material UI is an open-source library for building user interfaces in the React UI Framework.
+
+\subsection{Node.js}
+Node.js is a powerful and versatile open-source JavaScript runtime environment that allows developers to execute JavaScript code outside of a web browser.
+
+\subsection{Express JS Server}
+Express.js is required to serve and process user requests from a data source.
+
+\subsection{PostgreSQL}
+PostgreSQL is a database server that supports the standard structured query language.
+
+\subsection{Jasper Reports}
+Jasper Reports is an open-source Java reporting library that can be used to create interactive reports and generate high-quality print documents. It is widely used for formats including PDF, HTML, Excel, CSV, and more.
+
+
+% ////////////////////////////
+
+\section{System Requirements}
+
+\subsection*{Hardware Requirements}
+\begin{tabular}{|p{2.5cm}|p{2.5cm}|}
+  \hline
+  \textbf{Processor} & Core i3 \\
+  \hline
+  \textbf{RAM} & 4GB or more \\
+  \hline
+  \textbf{Hard Disk Space} & 2GB \\
+  \hline
+\end{tabular}
+
+
+\subsection*{Software Requirements}
+\begin{tabular}{|p{3.5cm}|p{3.5cm}|}
+  \hline
+  \textbf{Operating System} & Windows 2010 or higher \\
+  \hline
+  \textbf{Database} & PostgreSQL \\
+  \hline
+  \textbf{System Server} & Express JS \\
+  \hline
+  \textbf{Web Browser} & Edge, Chrome, Firefox \\
+  \hline
+  \textbf{Jasper Server} & For Jasper Reports \\
+  \hline
+  \textbf{For Bangla Fonts} & Nikosh, SolaimanLipi \\
+  \hline
+\end{tabular}
+
+

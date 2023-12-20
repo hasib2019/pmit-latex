@@ -34,8 +34,45 @@
 \hbox { }
 \contentsline {section}{\numberline {3.1}DATA FLOW DIAGRAM}{14}{}%
 \contentsline {section}{\numberline {3.2}USE CASE DIAGRAM}{15}{}%
-\contentsline {section}{\numberline {3.3}PROCESS DIAGRAM}{15}{}%
+\contentsline {section}{\numberline {3.3}PROCESS DIAGRAM}{16}{}%
 \contentsline {section}{\numberline {3.4}ENTRY USER}{16}{}%
-\contentsline {section}{\numberline {3.5}VERIFY/ADMIN/ACTIVITIES/APPROVAL USER }{16}{}%
-\contentsline {section}{\numberline {3.6}RELATIONAL DATABASE DESIGN}{16}{}%
-\contentsline {section}{\numberline {3.7}SOCIETY SETUP DATABASE}{17}{}%
+\contentsline {section}{\numberline {3.5}VERIFY/ADMIN/ACTIVITIES/APPROVAL USER }{17}{}%
+\contentsline {section}{\numberline {3.6}RELATIONAL DATABASE DESIGN}{17}{}%
+\contentsline {section}{\numberline {3.7}SOCIETY SETUP DATABASE}{18}{}%
+\contentsline {section}{\numberline {3.8}IMPLEMENTATION}{19}{}%
+\contentsline {subsection}{\numberline {3.8.1}Dashboard:}{19}{}%
+\contentsline {subsection}{\numberline {3.8.2}Society Management:}{19}{}%
+\contentsline {subsection}{\numberline {3.8.3}Members Management:}{19}{}%
+\contentsline {subsection}{\numberline {3.8.4}Committee Management:}{19}{}%
+\contentsline {subsection}{\numberline {3.8.5}Website Setup:}{20}{}%
+\contentsline {subsection}{\numberline {3.8.6}Reporting:}{20}{}%
+\contentsline {section}{\numberline {3.9}Implementation Tools}{20}{}%
+\contentsline {subsection}{\numberline {3.9.1}React Framework Next.js}{20}{}%
+\contentsline {subsection}{\numberline {3.9.2}Material UI}{20}{}%
+\contentsline {subsection}{\numberline {3.9.3}Node.js}{20}{}%
+\contentsline {subsection}{\numberline {3.9.4}Express JS Server}{20}{}%
+\contentsline {subsection}{\numberline {3.9.5}PostgreSQL}{21}{}%
+\contentsline {subsection}{\numberline {3.9.6}Jasper Reports}{21}{}%
+\contentsline {section}{\numberline {3.10}System Requirements}{21}{}%
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf IV.\hspace {5pt}}{\bf INTERFACE DESIGN}}{22}{}%
+\hbox { }
+\contentsline {section}{\numberline {4.1}User Interface Characteristics}{22}{}%
+\contentsline {section}{\numberline {4.2}SCREENSHOT OF THE SYSTEM}{23}{}%
+\contentsline {subsection}{\numberline {4.2.1}SYSTEM ENTRY SCREEN}{23}{}%
+\contentsline {subsection}{\numberline {4.2.2}Login Screen:}{23}{}%
+\contentsline {subsection}{\numberline {4.2.3}User Dashboard:}{24}{}%
+\contentsline {subsection}{\numberline {4.2.4}Beneficiary Dashboard:}{24}{}%
+\contentsline {subsection}{\numberline {4.2.5}Name Clearance:}{25}{}%
+\contentsline {subsection}{\numberline {4.2.6}Name Clearance:}{26}{}%
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{27}{}%
+\hbox { }
+\contentsline {section}{\numberline {5.1}Fuzzification}{27}{}%
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{28}{}%
+\hbox { }
+\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{28}{}%
+\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{29}{}%
+\contentsline {section}{\numberline {6.3}Conclusion}{29}{}%
+\contentsline {chapter}{References}{30}{}%
