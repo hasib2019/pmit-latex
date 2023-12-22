@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.18)  20 DEC 2023 15:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.12.18)  22 DEC 2023 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -811,28 +811,32 @@ Package pdftex.def Info: Chap1/figure1.PNG  used on input line 98.
 <Chap1/figure2.PNG, id=63, 731.73375pt x 291.33844pt>
 File: Chap1/figure2.PNG Graphic file (type png)
 <use Chap1/figure2.PNG>
-Package pdftex.def Info: Chap1/figure2.PNG  used on input line 109.
+Package pdftex.def Info: Chap1/figure2.PNG  used on input line 107.
 (pdftex.def)             Requested size: 260.17464pt x 103.58812pt.
- [4 <./Chap1/figure1.PNG>]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./Chap1/figure1.PNG>]
 <Chap1/figure3.PNG, id=68, 758.08218pt x 234.8775pt>
 File: Chap1/figure3.PNG Graphic file (type png)
 <use Chap1/figure3.PNG>
-Package pdftex.def Info: Chap1/figure3.PNG  used on input line 120.
+Package pdftex.def Info: Chap1/figure3.PNG  used on input line 116.
 (pdftex.def)             Requested size: 260.17464pt x 80.60991pt.
 <Chap1/figure4.1.PNG, id=69, 383.18156pt x 33.12375pt>
 File: Chap1/figure4.1.PNG Graphic file (type png)
 <use Chap1/figure4.1.PNG>
-Package pdftex.def Info: Chap1/figure4.1.PNG  used on input line 131.
+Package pdftex.def Info: Chap1/figure4.1.PNG  used on input line 127.
 (pdftex.def)             Requested size: 260.17464pt x 22.49149pt.
 <Chap1/figure4.PNG, id=70, 678.28406pt x 225.09094pt>
 File: Chap1/figure4.PNG Graphic file (type png)
 <use Chap1/figure4.PNG>
-Package pdftex.def Info: Chap1/figure4.PNG  used on input line 135.
+Package pdftex.def Info: Chap1/figure4.PNG  used on input line 131.
 (pdftex.def)             Requested size: 260.17464pt x 86.33913pt.
 <Chap1/figure5.PNG, id=71, 455.45157pt x 187.45032pt>
 File: Chap1/figure5.PNG Graphic file (type png)
 <use Chap1/figure5.PNG>
-Package pdftex.def Info: Chap1/figure5.PNG  used on input line 146.
+Package pdftex.def Info: Chap1/figure5.PNG  used on input line 142.
 (pdftex.def)             Requested size: 260.17464pt x 107.08232pt.
 
 
@@ -841,18 +845,21 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <Chap1/figure6.PNG, id=72, 606.76688pt x 204.01219pt>
 File: Chap1/figure6.PNG Graphic file (type png)
 <use Chap1/figure6.PNG>
-Package pdftex.def Info: Chap1/figure6.PNG  used on input line 155.
+Package pdftex.def Info: Chap1/figure6.PNG  used on input line 151.
 (pdftex.def)             Requested size: 260.17464pt x 87.4776pt.
-[5 <./Chap1/figure2.PNG> <./Chap1/figure3.PNG> <./Chap1/figure4.1.PNG> <./Chap1/figure4.PNG>]
-<Chap1/figure7.PNG, id=80, 593.21625pt x 240.9pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Chap1/figure7.PNG, id=73, 593.21625pt x 240.9pt>
 File: Chap1/figure7.PNG Graphic file (type png)
 <use Chap1/figure7.PNG>
-Package pdftex.def Info: Chap1/figure7.PNG  used on input line 164.
+Package pdftex.def Info: Chap1/figure7.PNG  used on input line 160.
 (pdftex.def)             Requested size: 260.17464pt x 105.65814pt.
+[5 <./Chap1/figure2.PNG> <./Chap1/figure3.PNG> <./Chap1/figure4.1.PNG> <./Chap1/figure4.PNG>]
 <Chap1/figure8.PNG, id=81, 582.67688pt x 209.28188pt>
 File: Chap1/figure8.PNG Graphic file (type png)
 <use Chap1/figure8.PNG>
-Package pdftex.def Info: Chap1/figure8.PNG  used on input line 173.
+Package pdftex.def Info: Chap1/figure8.PNG  used on input line 169.
 (pdftex.def)             Requested size: 260.17464pt x 93.44786pt.
 
 
@@ -977,20 +984,43 @@ File: Chap4/5.png Graphic file (type png)
 Package pdftex.def Info: Chap4/5.png  used on input line 35.
 (pdftex.def)             Requested size: 398.33858pt x 184.8749pt.
  [24 <./Chap4/3.png> <./Chap4/4.jpeg>]
-<Chap4/6.png, id=168, 1371.1225pt x 1761.58125pt>
+<Chap4/nameclearance-approval.png, id=168, 1371.1225pt x 1067.99pt>
+File: Chap4/nameclearance-approval.png Graphic file (type png)
+<use Chap4/nameclearance-approval.png>
+Package pdftex.def Info: Chap4/nameclearance-approval.png  used on input line 38.
+(pdftex.def)             Requested size: 398.33858pt x 310.26324pt.
+<Chap4/6.png, id=169, 1371.1225pt x 1761.58125pt>
 File: Chap4/6.png Graphic file (type png)
 <use Chap4/6.png>
-Package pdftex.def Info: Chap4/6.png  used on input line 38.
+Package pdftex.def Info: Chap4/6.png  used on input line 41.
 (pdftex.def)             Requested size: 398.33858pt x 511.75938pt.
-) (./Chap5/Chapter5.tex [25 <./Chap4/5.png>] [26 <./Chap4/6.png>]
+ [25 <./Chap4/5.png> <./Chap4/nameclearance-approval.png>]
+<Chap4/step2.png, id=176, 1371.1225pt x 727.71875pt>
+File: Chap4/step2.png Graphic file (type png)
+<use Chap4/step2.png>
+Package pdftex.def Info: Chap4/step2.png  used on input line 44.
+(pdftex.def)             Requested size: 398.33858pt x 211.41057pt.
+ [26 <./Chap4/6.png>]
+<Chap4/step3.png, id=181, 1371.1225pt x 1780.6525pt>
+File: Chap4/step3.png Graphic file (type png)
+<use Chap4/step3.png>
+Package pdftex.def Info: Chap4/step3.png  used on input line 47.
+(pdftex.def)             Requested size: 398.33858pt x 517.2998pt.
+ [27 <./Chap4/step2.png>]
+<Chap4/step4.png, id=186, 1371.1225pt x 944.52875pt>
+File: Chap4/step4.png Graphic file (type png)
+<use Chap4/step4.png>
+Package pdftex.def Info: Chap4/step4.png  used on input line 50.
+(pdftex.def)             Requested size: 398.33858pt x 274.39633pt.
+) (./Chap5/Chapter5.tex [28 <./Chap4/step3.png>] [29 <./Chap4/step4.png>]
 CHAPTER V.
-) (./Chap6/Chapter6.tex [27
+) (./Chap6/Chapter6.tex [30
 
 ]
 CHAPTER VI.
-[28
+[31
 
-] [29]
+] [32]
 Underfull \hbox (badness 3148) in paragraph at lines 79--80
 []\T1/cmr/m/n/12 Sampson, F. A. (1906). \T1/cmr/m/it/12 Mis-souri His-tor-i-cal Re-view\T1/cmr/m/n/12 . Ed-i-tor, The state
  []
@@ -1030,30 +1060,30 @@ Underfull \hbox (badness 1158) in paragraph at lines 100--101
 \T1/cmr/m/n/12 in the con-text of Bangladesh.'' [on-line]. Avail-able at $\T1/cmtt/m/n/12 http : / / www . scribd .
  []
 
-[30
+[33
 
 ])
 
 Package natbib Warning: There were multiply defined citations.
 
-[31] (./thesis.aux)
+[34] (./thesis.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20584 strings out of 478287
- 405880 string characters out of 5849288
- 719095 words of memory out of 5000000
- 38268 multiletter control sequences out of 15000+600000
+ 20612 strings out of 478287
+ 406519 string characters out of 5849288
+ 720095 words of memory out of 5000000
+ 38292 multiletter control sequences out of 15000+600000
  481412 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  110i,10n,106p,709b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on thesis.pdf (43 pages, 2268346 bytes).
+Output written on thesis.pdf (46 pages, 2935935 bytes).
 PDF statistics:
- 241 PDF objects out of 1000 (max. 8388607)
- 133 compressed objects within 2 object streams
+ 258 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 

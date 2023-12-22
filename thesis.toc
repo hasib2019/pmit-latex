@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {1.3}Aims of Co-operative Societies in Bangladesh}{2}{}%
 \contentsline {section}{\numberline {1.4}Motivation}{3}{}%
 \contentsline {section}{\numberline {1.5}Findings of Our Study}{4}{}%
-\contentsline {section}{\numberline {1.6}Problems of Cooperatives in Bangladesh}{7}{}%
+\contentsline {section}{\numberline {1.6}Problems of Cooperatives in Bangladesh}{6}{}%
 \hbox { }
 \contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Literature Review}}{9}{}%
 \hbox { }
@@ -64,15 +64,19 @@
 \contentsline {subsection}{\numberline {4.2.3}User Dashboard:}{24}{}%
 \contentsline {subsection}{\numberline {4.2.4}Beneficiary Dashboard:}{24}{}%
 \contentsline {subsection}{\numberline {4.2.5}Name Clearance:}{25}{}%
-\contentsline {subsection}{\numberline {4.2.6}Name Clearance:}{26}{}%
+\contentsline {subsection}{\numberline {4.2.6}Name Clearance Approval:}{25}{}%
+\contentsline {subsection}{\numberline {4.2.7}Samity Ragistration setep-01:}{26}{}%
+\contentsline {subsection}{\numberline {4.2.8}Samity By Laws setep-02:}{27}{}%
+\contentsline {subsection}{\numberline {4.2.9}Samity Members setep-03:}{28}{}%
+\contentsline {subsection}{\numberline {4.2.10}Samity Commettee setep-04:}{29}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{27}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf V.\hspace {5pt}}{\bf Performance Analysis}}{30}{}%
 \hbox { }
-\contentsline {section}{\numberline {5.1}Fuzzification}{27}{}%
+\contentsline {section}{\numberline {5.1}Fuzzification}{30}{}%
 \hbox { }
-\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{28}{}%
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf VI.\hspace {5pt}}{\bf Discussion and Conclusion}}{31}{}%
 \hbox { }
-\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{28}{}%
-\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{29}{}%
-\contentsline {section}{\numberline {6.3}Conclusion}{29}{}%
-\contentsline {chapter}{References}{30}{}%
+\contentsline {section}{\numberline {6.1}Limitations of Co-operative Society Management Systems}{31}{}%
+\contentsline {section}{\numberline {6.2}Future-Oriented Plan for Co-operative Society Management}{32}{}%
+\contentsline {section}{\numberline {6.3}Conclusion}{32}{}%
+\contentsline {chapter}{References}{33}{}%
